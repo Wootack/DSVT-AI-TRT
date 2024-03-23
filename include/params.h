@@ -21,7 +21,7 @@
 
 
 // points2features
-#define MAX_POINTS_NUM 50000
+#define MAX_POINTS_NUM 200000
 #define MAX_POINTS_NUM_1 30000 
 #define MAX_PILLARS_NUM 10000
 #define POINTS_NUM_PER_VOXEL 48//3558
